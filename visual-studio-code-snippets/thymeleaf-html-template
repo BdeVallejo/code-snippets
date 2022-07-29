@@ -1,0 +1,18 @@
+{
+
+	"thymeleaf-template": {
+		"scope": "html",
+		"prefix": "thymeleaf-template",
+		"body": [
+			"<!DOCTYPE html>",
+			"<html xmlns:th=\"http://www.thymelaf.org\">",
+			"<head>",
+				"<meta charset=\"UTF-8\">",
+				"<title></title>",
+			"</head>",
+			"<body>",
+			"</body>",
+		"</html>"],
+		"description": "Build an empty HTML thymelaf template"
+	  }
+}
